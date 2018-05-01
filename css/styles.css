@@ -35,3 +35,11 @@ a:link {
   background-color: #c3c3c3;
   padding: 15px;
 }
+
+footer {
+    background-color: black;
+}
+
+a:hover{
+  color:orange;
+}
